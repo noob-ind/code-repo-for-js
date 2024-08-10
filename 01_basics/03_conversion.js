@@ -38,10 +38,36 @@
 
 // console.log(conisLoggedin) // will give output as false
 
-let strNumber = "33"
+// let strNumber = "33"
 
-let intNumber = Number(strNumber)
+// let intNumber = Number(strNumber)
 
-console.log(intNumber)
+// console.log(intNumber)
+
+//**************************************************** */
+
+// let value = 3
+// let negValue = -value
+// console.log(negValue)
+
+// let str1 = "hello"
+// let str2 = " Ankit"
+// console.log(str1+str2)
+
+//  console.log("1" + 2)
+
+//  console.log("1" + 2 + 3)
+
+
+//  console.log("1" + 2 + "3")
+
+//  console.log(1 + 2 + "2")
+
+
+//  console.log(1 + "2" + 3)
+
+
+//  console.log(1 + 2 + "3" + 4)
+
 
 
